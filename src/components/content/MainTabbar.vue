@@ -3,12 +3,12 @@
     <bar-item path="/home" actColor="deepPink">
       <img slot="item-icon" src="~assets/img/tabbar/home.png" alt="">
       <img slot="item-icon-act" src="~assets/img/tabbar/home_act.png" alt="">
-      <div slot="item-text">首页</div>
+      <div slot="item-text">购物街</div>
     </bar-item>
     <bar-item path="/class">
       <img slot="item-icon" src="~assets/img/tabbar/class.png" alt="">
       <img slot="item-icon-act" src="~assets/img/tabbar/class_act.png" alt="">
-      <div slot="item-text">分类</div>
+      <div slot="item-text">活动</div>
     </bar-item>
     <bar-item path="/gwc">
       <img slot="item-icon" src="~assets/img/tabbar/gwc.png" alt="">
